@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Copyright (C) 2018 Jonathan T. Moore
 
 import csv
 import datetime
